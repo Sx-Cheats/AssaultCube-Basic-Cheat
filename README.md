@@ -13,7 +13,7 @@ C'est un vieux projet que j'ai décidé de mettre sur GitHub.
 
 # Installation 
 
-Cloner ce repo, créer un nouveau projet sur Visual Studio, et pour la suite, je vous laisse faire, vous êtes une grande personne  😛
+Cloner ce repo, créer un nouveau projet sur Visual Studio, et pour la suite, je vous laisse faire, vous êtes une grande personne  😛.
 
 # Preview 
 
