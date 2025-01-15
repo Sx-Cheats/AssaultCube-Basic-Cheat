@@ -7,6 +7,7 @@ Features:
    > - Infinitie ammo
    > - Instant kill
    > - Incrase firerate
+   > - More...
 
 C'est un vieux projet que j'ai décidé de mettre sur GitHub.
 
