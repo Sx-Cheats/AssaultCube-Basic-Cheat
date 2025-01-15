@@ -19,7 +19,7 @@ void Entry(HMODULE module)
     StartEngine();
    
 
-    std::cout << "Project Initied ! : " << Player << std::endl;
+    std::cout << "Project Initied ! : " << std::endl;
     std::cout << " Lib Module : " << NTapi::GetModuleAddress("lib.dll") << std::endl;
 
     
