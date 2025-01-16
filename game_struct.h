@@ -15,7 +15,7 @@
 {
 	PADDING(DWORD, 4)
 
-    float ZO;
+        float ZO;
 	float XO;
 	float YO;
 
